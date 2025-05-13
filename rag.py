@@ -29,6 +29,7 @@ Docs:
 Q: {query}
 A:"""
 
+###BONUS
 def rewrite_query(query):
     rewrite_prompt = f"""You are an AI assistant helping to improve information retrieval. 
 
