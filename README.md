@@ -95,7 +95,7 @@ We implemented:
 
 ## 📁 7. Document Corpus
 
-All documents used are located in the `/documents` folder. If submitting code without documents, use your own `.pdf`, `.docx`, or `.txt` files on topics such as AI, ethics, and machine learning.
+All documents used are located in the `/documents` folder. You can use your own `.pdf`, `.docx`, or `.txt` files on topics such as AI, ethics, and machine learning or alternatively other topics but prompts in code would need modification
 
 ---
 
